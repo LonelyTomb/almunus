@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JSLintConfiguration" json="true">
+    <option bitwise="true" />
+    <option browser="true" />
+    <option devel="true" />
+    <option es6="true" />
+    <option for="true" />
+    <option maxerr="50" />
+    <option node="true" />
+    <option single="true" />
+    <option this="true" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="lonelytomb" />
+  </component>
+  <component name="RTProjectComponent">
+    <option name="rtExecutable" value="$USER_HOME$/.config/yarn/global/node_modules/react-templates/bin/rt.js" />
+    <option name="nodeInterpreter" value="" />
+    <option name="pluginEnabled" value="true" />
+    <option name="modules" value="es6" />
+  </component>
+  <component name="VagrantProjectSettings">
+    <option name="instanceFolder" value="" />
+    <option name="provider" value="" />
+  </component>
+</project>
